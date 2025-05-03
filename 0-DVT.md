@@ -19,3 +19,9 @@ distal veins 40%, popliteal 16%, femoral 20%, common femoral 20%, and iliac vein
 
 ## pathophysiology
 **virchow triad**: damage to the vessels wall, blood flow turbulence, hypercoagulability
+
+## History and Physical
+- pain, edema, erythema, tenderness, fever, prominent superficial veins, pain with passive dorsiflexion of the foot (Homan’s sign), and peripheral cyanosis.
+- Phlegmasia cerulea dolens, characterized by the triad of massive swelling, cyanosis, and pain, is the most severe form of acute lower extremity DVT and results from complete thrombosis of an extremity’s venous outflow
+
+![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYSzLLMQW78MhSTYV90ZBOryBuzYWuA8P9A&s]
