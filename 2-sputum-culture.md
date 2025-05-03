@@ -13,3 +13,16 @@
 8. In tuberculosis, 3 sputum samples must be collected on 3 consecutive days and returned to the clinical lab daily.
 
 ## sputum induction
+- used to collect adequate lower respiratory secretions from patients who have difficulty producing sputum
+- essential for patients suspected of having miliary tuberculosis or tuberculous pleural effusion.
+- patient inhales a nebulized hypertonic saline solution to liquefy airway secretions, stimulating coughing and promoting the expectoration of mucus.
+- p.t washes his mouth
+- prepare a 20 mL 3% hypertonic saline solution and inject it into the water-filled nebulizer cup
+- allow the patient to inhale the hypertonic mist for approximately 5 minutes.
+- the patients inhale and exhale through the mouthpiece
+- patients take several deep breaths before attempting to cough
+- gentle chest physiotherapy to aid the patients in producing sputum.
+- monitor for potential complications, such as the potential rupture of pleural bullae, which can lead to a life-threatening pneumothorax.
+- procedure should be stopped when a 1 to 2 mL sputum specimen is collected, after 15 minutes of nebulization, or if the patient complains of chest tightness, dyspnea, or wheezing. Imaging is advised if these symptoms persist at the end of the sputum collection.
+
+  
